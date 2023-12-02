@@ -380,8 +380,8 @@
       "condition": "森の世界にいる2匹のおばけに話しかける"
     },
     "white_tulip": {
-      "name": "Rain and Flowers",
-      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
+      "name": "雨と花々",
+      "condition": "レンガの中に到達する"
     }
   },
   "2kki": {
@@ -3425,9 +3425,9 @@
       "condition": "Mirror Roomのドアをノックする"
     },
     "eye_stalk_toxic": {
-      "name": "You're Toxic!",
-      "description": "I'm getting the hell away from you!",
-      "condition": "Freak out the eye-stalk creature in Neon Sewers by using the Toxic alter"
+      "name": "あなたはどくだ！",
+      "description": "あっちいって！",
+      "condition": "Neon Sewersにいる目玉生物をどくのアルターで怖がらせる"
     }
   },
   "someday": {
@@ -3737,14 +3737,14 @@
       "condition": "Trixboa eventを見てthe looping fieldに到達する"
     },
     "dog_alphabet": {
-      "name": "D for Dog",
-      "description": "How cute~ Nice to meet you!",
-      "condition": "Interact with the dog in Alphabet Tower"
+      "name": "DはDogのD",
+      "description": "かわいい～はじめまして！!",
+      "condition": "Alphabet Towerの犬に話しかける"
     },
     "flesh_trees_mound": {
       "name": "Flesh Tree Rave",
-      "description": "Seems like they're talking to you. Who knows what they're saying?",
-      "condition": "Trigger the Flesh Trees event in Metal Mounds"
+      "description": "彼らはあなたに話しかけているみたいだ。彼らが何を言ってるのか、誰が知ってる？",
+      "condition": "Metal MoundsでFlesh Treesイベントを見る"
     }
   },
   "braingirl": {
@@ -3818,8 +3818,8 @@
       "condition": "Graveyardに到達する"
     },
     "cubic_ruins": {
-      "name": "Cubes Lost to Time",
-      "description": "An ancient wonder built since time immemorial, awaiting its discovery.",
+      "name": "時の彼方に消えたキューブ",
+      "description": "太古の昔から築かれ、その発見を待ち望む不思議な建造物.",
       "condition": "Cubic Ruinsに到達する"
     }
   },
@@ -4076,8 +4076,8 @@
       "condition": "Glitchに行く"
     },
     "flower_field": {
-      "name": "Happy!",
-      "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
+      "name": "ハッピー！",
+      "description": "移動速度の向上とモンスターのスポーン……すみません、ゲームを間違えました。",
       "condition": "Flower Fieldに到達する"
     }
   },
