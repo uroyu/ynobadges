@@ -4083,9 +4083,9 @@
       "condition": "Mural PassageでTusuq Warmiを踊らせる"
     },
     "moon_harsh_light_road": {
-      "name": "Moondrop",
+      "name": "ムーン・ドロップ",
       "description": "Moon river, wider than a mile",
-      "condition": "View the event with the dripping moon in Harsh Light Road"
+      "condition": "Harsh Light Roadで月の雫のイベントを見る"
     }
   },
   "flow": {
