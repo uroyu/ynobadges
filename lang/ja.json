@@ -8390,8 +8390,8 @@
       "condition": "Winter HillsのMeteorite Caveでキャンプしている人を見る"
     },
     "dust_bunny_effect": {
-      "name": "Irving and the Bunny",
-      "description": "Big fluffy rabbit!",
+      "name": "Irvingとうさぎ",
+      "description": "おおきくてもふもふなうさぎ！",
       "condition": "Obtain the Dust Bunny effect. If you have already unlocked it, return where it can be found in Attic World."
     }
   },
@@ -8587,8 +8587,8 @@
       "condition": "Obtain the Classic Dress effect. If you have already unlocked it, return in Floating Triangle Attic."
     },
     "detective_effect_wormiko": {
-      "name": "Detective Wormiko",
-      "description": "Detective Wormiko is on the move!",
+      "name": "探偵Wormiko",
+      "description": "探偵Wormiko、出動！",
       "condition": "Obtain the Detective effect. If you have already unlocked it, return to Ancient Civilization."
     }
   },
