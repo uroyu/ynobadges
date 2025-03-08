@@ -6953,14 +6953,14 @@
       "condition": "ネオンカラー浅瀬の家に到達する"
     },
     "april_september_sleep": {
-      "name": "Lengthy Slumber",
-      "description": "Just 5 more months...",
-      "condition": "Sleep from April into September"
+      "name": "長いまどろみ",
+      "description": "あと５ヶ月……",
+      "condition": "春の町並みから夜の町並みまで眠る"
     },
     "rooftop_stonelit_hollow": {
-      "name": "Sunset Summit",
-      "description": "An eternal dusk.",
-      "condition": "Reach the rooftop of Stonelit Hollow"
+      "name": "日没の頂き",
+      "description": "永遠の夕暮れ。",
+      "condition": "積石と夕日の屋上エリアに到達する"
     }
   },
   "flow": {
@@ -6999,8 +6999,8 @@
       }
     },
     "dark_city": {
-      "name": "Psychedelic Visage",
-      "description": "A gift from a visitor from another plane of reality",
+      "name": "サイケデリックな姿",
+      "description": "現実の別の次元からの訪問者からの贈り物",
       "condition": "サイケデリック街にいる宇宙人に話しかける"
     },
     "red_eye": {
